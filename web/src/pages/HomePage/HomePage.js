@@ -4,7 +4,7 @@ const HomePage = () => {
   return (
     <>
       <MetaTags title="Home" description="Home page" />
-      <p>Welcome to the blog</p>
+      Home
     </>
   )
 }
